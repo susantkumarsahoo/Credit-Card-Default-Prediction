@@ -1,0 +1,46 @@
+Plotly              == 5.24.1
+Statsmodels         == 0.14.4               
+Keras               == 3.8.0 
+NLTK            #   == 3.9.1
+Flask               == 3.1.0
+SciPy               == 1.15.1
+accelerate          == 1.2.1                   
+flask               == 3.1.0                   
+huggingface-hub     == 0.27.1                  
+ipykernel           == 6.29.5             
+keras               == 3.8.0                    
+matplotlib          == 3.10.0                   
+matplotlib-inline   == 0.1.7              
+nltk                == 3.9.1                    
+numpy               == 2.2.1                    
+pandas              == 2.2.3                    
+plotly              == 5.24.1                   
+pyyaml              == 6.0.2                    
+regex               == 2024.11.6               
+requests            == 2.32.3                   
+scikit-learn    #   == 1.6.1                    
+scipy               == 1.15.1                   
+sentencepiece       == 0.2.0                   
+statsmodels         == 0.14.4                  
+streamlit           == 1.41.1                  
+tokenizers          == 0.21.0                   
+torch               == 2.5.1                   
+torchtext           == 0.18.0                   
+torchvision         == 0.20.1                   
+tqdm                == 4.67.1                               
+transformers        == 4.48.0                   
+pandas-profiling  # == 3.1.0    
+pydantic            == 1.10.11
+xgboost             == 2.1.3
+
+
+
+
+
+
+
+
+
+
+
+
